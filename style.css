@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.titulo {
+    color: aquamarine;
+}
+
+h2{ 
+    font-size: 2rem;
+}
+
+
+.tamanhoDiv{
+    max-width: 40vw;
+}
+
+img{
+     width: 40%;
+}
+
+
+.tamanhoFonte {
+    font-size: 2rem;
+}
+
+#texto {
+  color: purple;
+}
